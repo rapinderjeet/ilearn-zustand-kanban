@@ -68,6 +68,7 @@ export default function Column({ state }) {
                 name="title"
                 onChange={(e) => setText(e.target.value)}
                 value={text}
+                autoFocus
               />
               <button
                 onClick={() => {
