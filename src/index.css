@@ -1,0 +1,17 @@
+:root {
+  --COLOR-WET-ASP: #34495e;
+  --COLOR-GRAY-LIGHT: #cccccc;
+  --COLOR-GRAY-DARK: #bbbbbb;
+  --COLOR-ONGOING: #2980b9;
+  --COLOR-DONE: #2ecc71;
+  --COLOR-CLOUDS: #ecf0f1;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
